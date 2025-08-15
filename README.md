@@ -93,3 +93,5 @@ Creative control over blending art and real-world images.
 Works with any content–style combination.
 
 Demonstrates the interpretability of CNN layers.
+
+<img width="288" height="216" alt="Image" src="https://github.com/user-attachments/assets/d518058a-09cc-43a4-9cbc-1bf4ceacf7b4" />
